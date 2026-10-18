@@ -1,2 +1,2 @@
-# savagesab.github.io
-Creating my first website to test on how to code. 
+# Come and visit me soon!
+Learning how to create a website and showcase my portfolio 
